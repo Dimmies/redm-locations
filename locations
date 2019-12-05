@@ -17,7 +17,7 @@ Saint Denis | 2721.197, -1445.559, 46.228
 Annesburg | 2931.099, 1283.42, 44.652
 Riggs Station | -1095.475, -575.222, 82.410
 Wallace Station | -1301.816, 397.617, 95.429
-Benedict Point | -5226.391, -3741.816, -20.552
+Benedict Point | -5226.391, -3471.816, -20.552
 Armadillo | -3727.877, -2605.543, -12.937
 
 
@@ -27,6 +27,16 @@ Bacchus Station | 584.0187, 1684.408, 187.6705
 Macfarlane's Ranch | -2439.739, -2428.255, 60.599
 Flatneck Station | -333.332, -354.361, 88.028
 Van Horn | 2892.098, 624.166, 57.783
+
+
+Post Offices
+--------------------
+RhodesPostOffice | 1225.6072998047, -1293.85546875, 76.908882141113
+ValentinePostOffice | -178.90234375, 626.65270996094, 114.08963775635
+AnnesburgPostOffice | 2939.3054199219, 1288.6746826172, 44.652828216553
+RiggsStationPostOffice | -1094.3240966797, -574.92730712891, 82.41332244873
+WallaceStationPostOffice | -1299.3735351563, 402.09124755859, 95.383857727051
+BenedictPointPostOffice | -5227.5561523438, -3470.58203125, -20.569681167603
 
 
 General Stores
